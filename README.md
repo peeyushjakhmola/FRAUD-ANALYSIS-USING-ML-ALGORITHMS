@@ -4,6 +4,7 @@ Analyze customer’s purchase data set and build a machine learning algorithm to
 Every row in this dataset contains information about purchases from multiple customers. Along with purchase details, we also have customer basic details like gender, date of birth etc. Individual column description as follows
 
 User_id: Customer unique id
+
 Signup_time: Date & Time at which the customer signup in the platform
 Purchase_time: The latest purchase date & time from a customer
 Purchase_value: Total purchase amount
